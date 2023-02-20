@@ -38,7 +38,7 @@ const Services = () => {
          <ul className='service__list'>
           <li>
             <BsCheck2Circle className='service__list-icon' />
-            <p>Highly responsive native mobile apps.</p>
+            <p>Highly responsive cross-platform ios and android mobile apps.</p>
           </li>
           <li>
             <BsCheck2Circle className='service__list-icon' />
