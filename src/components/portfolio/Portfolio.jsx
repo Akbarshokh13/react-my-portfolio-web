@@ -5,6 +5,7 @@ import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/port-web.png'
 import IMG5 from '../../assets/notes-view.png'
+import IMG6 from '../../assets/reactExpense.png'
 
 const data = [
 {
@@ -42,7 +43,16 @@ const data = [
   title: 'React Notes App',
   github: 'https://github.com/Akbarshokh13/react-notes-app',
   demo: 'https://react-notes-app-project.netlify.app/'
+},
+
+{
+  id: 6,
+  image: IMG6,
+  title: 'React Expense Tracker App',
+  github: 'https://github.com/Akbarshokh13/expense-tracker-react-app',
+  demo: 'https://react-expense-tracker-app-project.netlify.app/'
 }
+
 
 ]
 const Portfolio = () => {
