@@ -7,6 +7,7 @@ import IMG4 from "../../assets/port-web.png";
 import IMG5 from "../../assets/notes-view.png";
 import IMG6 from "../../assets/reactExpense.png";
 import IMG8 from "../../assets/youtube.png";
+import IMG9 from "../../assets/chopoholic.png"; 
 
 const data = [
 
@@ -20,9 +21,10 @@ const data = [
 
   {
     id: 2,
-    image: IMG1,
-    title: "Click To Move",
-    github: "https://github.com/Akbarshokh13/move-on-click",
+    image: IMG9,
+    title: "Shopping List App Project",
+    github: "https://github.com/Akbarshokh13/shopping-list-project",
+    demo: "https://shopping-list-project-app.netlify.app/", 
   },
 
   {
