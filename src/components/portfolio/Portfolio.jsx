@@ -8,6 +8,8 @@ import IMG5 from "../../assets/notes-view.png";
 import IMG6 from "../../assets/reactExpense.png";
 import IMG8 from "../../assets/youtube.png";
 import IMG9 from "../../assets/chopoholic.png"; 
+import IMG10 from "../../assets/react-native.jpg"; 
+
 
 const data = [
 
@@ -66,9 +68,17 @@ const data = [
   {
     id: 8,
     image: IMG8,
-    title: "React YouTube clone app",
+    title: "React YouTube Clone App",
     github: "https://github.com/Akbarshokh13/react-youtube-clone-app-project",
     demo: "https://youtube-clone-application-project.netlify.app/"
+  },
+  
+  {
+    id: 9,
+    image: IMG10,
+    title: "React Native Job Search App",
+    github: "https://github.com/Akbarshokh13/reactNative-jobSearch-app",
+    demo: "https://expo.dev/@akbarshokh13/react-native-job-search-app"
   },
 ];
 
